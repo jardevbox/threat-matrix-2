@@ -1,3 +1,23 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://docs.zephyrproject.org
+*    Release: https://github.com/zephyrproject-rtos/zephyr/releases/tag/zephyr-v1.3.0
+*    Source File: sys_fatal_error_handler.c
+*    
+*    Copyrights:
+*      copyright (c) 2014 wind river systems, inc
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 // https://github.com/eclipse/mosquitto/blob/v2.0.1/src/control.c
 #ifdef WITH_CONTROL
 /* Process messages coming in on $CONTROL/<feature>. These messages aren't
