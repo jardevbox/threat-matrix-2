@@ -1,3 +1,21 @@
+#    ------ BEGIN LICENSE ATTRIBUTION ------
+#    
+#    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+#    
+#    Project: https://healthchecks.io
+#    Release: https://github.com/healthchecks/healthchecks/releases/tag/v1.23.1
+#    Source File: prunepingsslow.py
+#    
+#    Copyrights:
+#      copyright (c) 2015, pēteris caune
+#    
+#    Licenses:
+#      BSD 3-Clause "New" or "Revised" License
+#      SPDXId: BSD-3-Clause
+#    
+#    Auto-attribution by Threatrix, Inc.
+#    
+#    ------ END LICENSE ATTRIBUTION ------
 # https://github.com/healthchecks/healthchecks/blob/v1.15.0/hc/api/management/commands/prunepingsslow.py
 class Command(BaseCommand):
     help = """Prune pings based on limits in user profiles.
