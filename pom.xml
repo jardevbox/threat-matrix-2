@@ -20,11 +20,11 @@
     <dependencies>
              <!-- https://mvnrepository.com/artifact/androidx.appcompat/appcompat -->
 <dependency>
-    <groupId>androidx.appcompat</groupId>
-    <artifactId>appcompat</artifactId>
-    <version>1.2.0</version>
-    <scope>runtime</scope>
-</dependency>
+         <groupId>androidx.appcompat</groupId>
+         <artifactId>appcompat</artifactId>
+         <version>1.2.0</version>
+         <scope>runtime</scope>
+      </dependency>
              
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -72,7 +72,7 @@
          </dependency>
              
              
-<!--
+      <!--
          <dependency>
              <groupId>org.apache.logging.log4j</groupId>
              <artifactId>log4j-core</artifactId>
@@ -158,7 +158,12 @@
         </dependency>
 
 
-    </dependencies>
+      <dependency>
+         <groupId>com.google.guava</groupId>
+         <artifactId>guava</artifactId>
+         <version>1.16.2</version>
+      </dependency>
+   </dependencies>
 
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>
