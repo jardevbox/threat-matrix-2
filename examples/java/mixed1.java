@@ -1,3 +1,55 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repository: https://github.com/spring-projects/spring-security
+*    Source File: crypto/src/main/java/org/springframework/security/crypto/codec/Base64.java
+*    
+*    Copyrights:
+*      copyright 2002-2016 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Repository: https://github.com/spring-projects/spring-boot-data-geode
+*    Source File: spring-geode/src/main/java/org/springframework/geode/core/util/ObjectUtils.java
+*    
+*    Copyrights:
+*      copyright 2020 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Repository: https://github.com/spring-projects/spring-boot
+*    Source File: spring-boot-project/spring-boot-devtools/src/main/java/org/springframework/boot/devtools/livereload/Connection.java
+*    
+*    Copyrights:
+*      copyright 2012-2021 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Repository: https://github.com/spring-projects/spring-authorization-server
+*    Source File: oauth2-authorization-server/src/main/java/org/springframework/security/oauth2/core/OAuth2TokenIntrospection.java
+*    
+*    Copyrights:
+*      copyright 2020-2021 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 private class mixed1 {
 
 // https://github.com/spring-projects/spring-authorization-server/blob/0.1.2/oauth2-authorization-server/src/main/java/org/springframework/security/oauth2/core/OAuth2TokenIntrospection.java
