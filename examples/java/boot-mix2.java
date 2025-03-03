@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repository: https://github.com/spring-projects/spring-boot
+*    Source File: spring-boot-cli/src/main/java/org/springframework/boot/cli/command/run/RunCommand.java
+*    
+*    Copyrights:
+*      copyright 2012-2016 the original author or authors
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 // spring-projects/spring-boot/blob/v2.6.4/spring-boot-project/spring-boot-cli/src/main/java/org/springframework/boot/cli/command/run/SpringApplicationRunner.java
 SpringApplicationRunner(SpringApplicationRunnerConfiguration configuration, String[] sources, String... args) {
         this.configuration = configuration;

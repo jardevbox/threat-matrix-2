@@ -1,3 +1,22 @@
+#    ------ BEGIN LICENSE ATTRIBUTION ------
+#    
+#    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+#    
+#    Repository: https://github.com/psf/requests
+#    Source File: requests/models.py
+#    
+#    Copyrights:
+#      copyright (c) 2010 by armin ronacher
+#      copyright (c) 2011 kenneth reitz
+#      copyright 2019 kenneth reitz. all rights reserved
+#    
+#    Licenses:
+#      Apache License 2.0
+#      SPDXId: Apache-2.0
+#    
+#    Auto-attribution by Threatrix, Inc.
+#    
+#    ------ END LICENSE ATTRIBUTION ------
 """
 requests.models
 ~~~~~~~~~~~~~~~
