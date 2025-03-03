@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repository: https://github.com/apache/commons-codec
+*    Source File: src/main/java/org/apache/commons/codec/binary/Base64.java
+*    
+*    Copyrights:
+*      copyright (c) 2002 kevin atkinson (kevina@gnu.org). verbatim copying
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 @Override
     void decode(final byte[] in, int inPos, final int inAvail, final Context context) {
         if (context.eof) {
