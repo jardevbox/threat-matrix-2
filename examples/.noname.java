@@ -3,7 +3,6 @@
  *
  *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
  *
- *    Repository: https://github.com/spring-projects/spring-boot
  *    Source File: spring-boot-project/spring-boot-actuator/src/main/java/org/springframework/boot/actuate/beans/BeansEndpoint.java
  *    Licenses:
  *      Eclipse Public License 2.0
