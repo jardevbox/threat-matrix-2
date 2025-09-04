@@ -1,17 +1,27 @@
 /*
- *    ------ BEGIN LICENSE ATTRIBUTION ------
- *
- *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
- *
- *    Source File: spring-boot-project/spring-boot-actuator/src/main/java/org/springframework/boot/actuate/beans/BeansEndpoint.java
- *    Licenses:
- *      Eclipse Public License 2.0
- *      SPDXId: EPL-2.0
- *
- *    Auto-attribution by Threatrix, Inc.
- *
- *    ------ END LICENSE ATTRIBUTION ------
- */
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/apache/commons-codec release version: v1  asset relative path: src/main/java/org/apache/commons/codec/binary/Base64.java
+*     - repo: https://github.com/spring-projects/spring-boot release version: v1.4.0.M2  asset relative path: spring-boot-cli/src/main/java/org/springframework/boot/cli/command/options/SourceOptions.java
+*     - repo: https://github.com/spring-projects/spring-boot release version: v2.4.10  asset relative path: spring-boot-project/spring-boot-devtools/src/main/java/org/springframework/boot/devtools/livereload/Connection.java
+*    
+*    Copyrights:
+*     - copyright 2012-2021 the original author or authors
+*     - copyright 2012-2014 the original author or authors
+*    
+*    Licenses:
+*     - Wink License
+*       SPDXId: xa0
+*     - Apache License 2.0
+*       SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 
 private void readWebSocketFrame() throws IOException {
 		try {
