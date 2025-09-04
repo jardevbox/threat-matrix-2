@@ -13,16 +13,6 @@
 *      Apache License 2.0
 *      SPDXId: Apache-2.0
 *    
-*    
-*    Source File: src/main/java/com/fasterxml/jackson/databind/AbstractTypeResolver.java
-*    
-*    Copyrights:
-*      copyright 2010 google inc. all rights reserved
-*    
-*    Licenses:
-*      Apache License 2.0
-*      SPDXId: Apache-2.0
-*    
 *    Auto-attribution by Threatrix, Inc.
 *    
 *    ------ END LICENSE ATTRIBUTION ------
