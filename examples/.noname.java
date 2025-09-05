@@ -3,10 +3,25 @@
  *
  *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
  *
- *    Source File: spring-boot-project/spring-boot-actuator/src/main/java/org/springframework/boot/actuate/beans/BeansEndpoint.java
+*    Repository: https://github.com/spring-projects/spring-boot
+*    Source File: spring-boot-project/spring-boot-devtools/src/main/java/org/springframework/boot/devtools/livereload/Connection.java
+*
+*    Copyrights:
+*      copyright 2012-2021 the original author or authors
+*
  *    Licenses:
- *      Eclipse Public License 2.0
- *      SPDXId: EPL-2.0
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*
+*
+*    Source File: src/main/java/com/fasterxml/jackson/databind/AbstractTypeResolver.java
+*
+*    Copyrights:
+*      copyright 2010 google inc. all rights reserved
+*
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
  *
  *    Auto-attribution by Threatrix, Inc.
  *
